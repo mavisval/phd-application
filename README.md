@@ -1,5 +1,5 @@
 # Phd Application
-Sharing Phd Apply material
+Sharing Phd Application material
 
 
 Folders include:
